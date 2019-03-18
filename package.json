@@ -1,0 +1,55 @@
+{
+  "name": "the-power-of-heart",
+  "version": "1.0.0",
+  "description": "a local app to keep track of game state, stats, and rolls in Monster of the Week for the Mundane",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaneallantaylor/the-power-of-heart.git"
+  },
+  "keywords": [
+    "Monster",
+    "of",
+    "the",
+    "Week",
+    "Games",
+    "Toy",
+    "App"
+  ],
+  "author": "Shane Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaneallantaylor/the-power-of-heart/issues"
+  },
+  "homepage": "https://github.com/shaneallantaylor/the-power-of-heart#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19",
+    "nodemon": "^1.18.10",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.3",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel": "^6.23.0",
+    "babel-loader": "^8.0.5",
+    "css-loader": "^2.1.0",
+    "node-sass": "^4.11.0",
+    "redux-devtools-extension": "^2.13.8",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1",
+    "webpack-node-externals": "^1.7.2"
+  }
+}

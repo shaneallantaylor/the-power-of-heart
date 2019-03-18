@@ -1,0 +1,10 @@
+export const SET_NEW_TITLE = "SET_NEW_TITLE";
+export const SET_NEW_URL = "SET_NEW_URL";
+export const SET_NEW_TARGET = "SET_NEW_TARGET";
+export const LOAD_PICTURES = "LOAD_PICTURES";
+export const CLEAR_TEXT = "CLEAR_TEXT";
+export const SET_UPDATED_TITLE = "SET_UPDATED_TITLE";
+export const SHOW_ADD = "SHOW_ADD";
+export const SHOW_UPDATE = "SHOW_UPDATE";
+export const SHOW_DELETE = "SHOW_DELETE";
+export const HIDE_DRAWERS = "HIDE_DRAWERS"
